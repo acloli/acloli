@@ -11,7 +11,7 @@ I've worked across the full lifecycle of mobile game development — from early-
 - **Primary stack:** Unity 6 / 2022.3 · C# · UniTask · R3 · VContainer (DI) · Addressables
 - **Specialties:** Out-game architecture · Performance profiling & optimization · Async loading pipelines
 - **Proven impact:** 70% load time reduction via profiler-driven bottleneck analysis
-- **Personal project:** Building [Vox Dungeon](https://github.com/acloli/Dungeon) — a roguelike deck-builder on Unity 6 with a custom game framework (TFramework)
+- **Personal project:** Building [Dungeon](https://github.com/acloli/Dungeon) — a roguelike deck-builder on Unity 6 with a custom game framework (TFramework)
 
 ---
 
@@ -33,7 +33,7 @@ I've worked across the full lifecycle of mobile game development — from early-
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/acloli/Dungeon">Vox Dungeon</a></h3>
+      <h3><a href="https://github.com/acloli/Dungeon">Dungeon</a></h3>
       <p>Roguelike deck-builder · Unity 6<br>
       <code>VContainer</code> <code>R3</code> <code>UniTask</code> <code>DOTween</code></p>
       <p>From-scratch solo development — game design, FSM-based battle system, ScriptableObject-driven data architecture.</p>
