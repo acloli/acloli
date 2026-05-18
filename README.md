@@ -23,6 +23,8 @@ I've worked across the full lifecycle of mobile game development — from early-
   <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Addressables-1B61C9?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/UniTask-1B61C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/R3-1B61C9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VContainer-1B61C9?style=for-the-badge" />
 </p>
 
